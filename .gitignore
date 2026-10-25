@@ -32,7 +32,6 @@ lcov.info
 coverage.xml
 .coverage
 .python-version
-.vscode
 *.sav
 *.old
 *.new
